@@ -399,7 +399,6 @@ for i in range(10):
 
 """### <font color = 'bisque'>Deploiement du modèle avec Gradio<font>"""
 
-!pip install gradio
 
 import gradio as gr
 import joblib as jb
